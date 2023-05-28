@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(247, 214, 153);
+}
+
+.intro {
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 214, 153);
+    border-radius: 10px;
+    padding: none;
+}
+
+.txt {
+    width: 50%;
+    margin: 50px auto;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(219, 160, 51);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.adptt {
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+    text-decoration: none;
+    transition: 0.5s;
+    border-bottom: none;
+}
+
+.adptt:hover {
+    color: rgb(219, 160, 51);
+}
+
